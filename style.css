@@ -1,0 +1,44 @@
+body {
+    background-image: "background1.jpg";
+}
+
+#header {
+    width: 100%;
+
+    text-align: left;
+}
+
+.heading {
+    display: inline;
+}
+
+#header button {
+    float: right;
+    border: 2px solid white;
+}
+
+#marimg {
+    width: 100%;
+}
+
+.imag {
+    display: inline-block;
+    width: 45%;
+}
+
+#foooter {
+    line-height: 2;
+    background-color: azure;
+    bottom: 0;
+    color: blue;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+#strt,
+#status,
+#rstrt {
+    font-size: 20px;
+}
